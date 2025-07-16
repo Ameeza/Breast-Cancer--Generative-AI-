@@ -1,2 +1,13 @@
-# Breast-Cancer--Generative-AI-
-It is Generative AI in Precision Medicine for Breast cancer. It does the drug prediction for specific cell type , breast cancer detection and visualization by storing past predictions and converts it into visualization charts and graphs. 
+---
+title: SensitiveCancerGPT
+emoji: 📈
+colorFrom: green
+colorTo: pink
+sdk: streamlit
+sdk_version: 1.26.0
+app_file: app.py
+pinned: false
+license: cc-by-4.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
